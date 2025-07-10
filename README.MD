@@ -22,7 +22,7 @@ Tidak ada dependensi eksternal yang dibutuhkan. Program ini hanya menggunakan mo
 
 1. Clone repository ini atau unduh file programnya:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/askura-bot/tebak-umur-Python.git
    ```
 2. Jalankan program di terminal atau melalui IDE favoritmu:
    ```bash
